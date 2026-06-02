@@ -29,7 +29,7 @@ Angry Mongry is a 2D top-down survivor game where the player fights off endless 
 - Press **F5** or click **Play** to run the game
 
 ### Run Exported Build
-- Download the latest release from the [Releases](https://github.com/Jojole40990/Angry-Monkey/releases) page
+- Download the latest release from the [Releases](https://github.com/Jojole40990/Angry-Monkey) page
 - Extract the zip and run `AngryMongry.exe`
 
 ## Controls
